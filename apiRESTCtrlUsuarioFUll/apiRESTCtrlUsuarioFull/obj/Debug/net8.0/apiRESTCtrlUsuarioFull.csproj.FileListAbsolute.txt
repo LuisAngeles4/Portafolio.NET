@@ -1,0 +1,77 @@
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/appsettings.Development.json
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/appsettings.json
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull.deps.json
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull.runtimeconfig.json
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull.pdb
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/MySqlConnector.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.csproj.AssemblyReference.cache
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.AssemblyInfoInputs.cache
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.AssemblyInfo.cs
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.csproj.CoreCompileInputs.cache
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.MvcApplicationPartsAssemblyInfo.cs
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.MvcApplicationPartsAssemblyInfo.cache
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets.build.json
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets.development.json
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets/msbuild.apiRESTCtrlUsuarioFull.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets/msbuild.build.apiRESTCtrlUsuarioFull.props
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.apiRESTCtrlUsuarioFull.props
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.apiRESTCtrlUsuarioFull.props
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/scopedcss/bundle/apiRESTCtrlUsuarioFull.styles.css
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTC.09EBCBF5.Up2Date
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/refint/apiRESTCtrlUsuarioFull.dll
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.pdb
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.genruntimeconfig.cache
+/Users/luisangeles/Documents/EscuelaOficial/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/ref/apiRESTCtrlUsuarioFull.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/appsettings.Development.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/appsettings.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull.deps.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull.runtimeconfig.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/apiRESTCtrlUsuarioFull.pdb
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/MySqlConnector.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.csproj.AssemblyReference.cache
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.AssemblyInfoInputs.cache
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.AssemblyInfo.cs
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.csproj.CoreCompileInputs.cache
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.MvcApplicationPartsAssemblyInfo.cs
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.MvcApplicationPartsAssemblyInfo.cache
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets.build.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets.development.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets/msbuild.apiRESTCtrlUsuarioFull.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets/msbuild.build.apiRESTCtrlUsuarioFull.props
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.apiRESTCtrlUsuarioFull.props
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.apiRESTCtrlUsuarioFull.props
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/scopedcss/bundle/apiRESTCtrlUsuarioFull.styles.css
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTC.09EBCBF5.Up2Date
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/refint/apiRESTCtrlUsuarioFull.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.pdb
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/apiRESTCtrlUsuarioFull.genruntimeconfig.cache
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRESTCtrlUsuarioFUll/apiRESTCtrlUsuarioFull/obj/Debug/net8.0/ref/apiRESTCtrlUsuarioFull.dll

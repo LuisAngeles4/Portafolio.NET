@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z7FzXNUXkN78Lq5lflyGsGjomsmAGgL4FZlJqcOLnZY=",
+  "Source": "apiRESTCine",
+  "BasePath": "_content/apiRESTCine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

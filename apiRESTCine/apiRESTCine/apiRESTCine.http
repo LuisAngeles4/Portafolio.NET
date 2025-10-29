@@ -1,0 +1,6 @@
+@apiRESTCine_HostAddress = http://localhost:5110
+
+GET {{apiRESTCine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

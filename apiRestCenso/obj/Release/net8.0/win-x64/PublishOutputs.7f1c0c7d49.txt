@@ -1,0 +1,12 @@
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/apiRestCenso.exe
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/appsettings.Development.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/appsettings.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/apiRestCenso.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/apiRestCenso.deps.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/apiRestCenso.runtimeconfig.json
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/apiRestCenso.pdb
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/Microsoft.OpenApi.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/luisangeles/Documents/EscuelaOficial/projects .NET/apiRestCenso/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

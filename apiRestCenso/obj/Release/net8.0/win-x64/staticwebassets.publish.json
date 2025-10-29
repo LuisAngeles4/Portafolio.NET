@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rzcSfXNJXghUQyOU56KTqGjpHs3HUy8+2e/TtHOBSbk=",
+  "Source": "apiRestCenso",
+  "BasePath": "_content/apiRestCenso",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zCJuVakHN9sL3IrMbE0VAQvSiyUxlOxdR8Z0SOkDLWs=",
+  "Source": "apiRESTCtrlUsuarioFull",
+  "BasePath": "_content/apiRESTCtrlUsuarioFull",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

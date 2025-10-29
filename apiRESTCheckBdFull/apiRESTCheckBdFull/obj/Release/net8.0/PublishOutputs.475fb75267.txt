@@ -1,0 +1,16 @@
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/apiRESTCheckBdFull
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/appsettings.json
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/apiRESTCheckBdFull.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/apiRESTCheckBdFull.deps.json
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/apiRESTCheckBdFull.runtimeconfig.json
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/apiRESTCheckBdFull.pdb
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/MySqlConnector.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/luisangeles/Documents/EscuelaOficial/examenParcial1/apiRESTCheckBdFull/apiRESTCheckBdFull/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

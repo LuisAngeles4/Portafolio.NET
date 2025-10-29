@@ -1,0 +1,6 @@
+@apiRESTCheckBdFull_HostAddress = http://localhost:5049
+
+GET {{apiRESTCheckBdFull_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

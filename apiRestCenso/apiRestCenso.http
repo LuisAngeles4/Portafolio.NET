@@ -1,0 +1,6 @@
+@apiRestCenso_HostAddress = http://localhost:5114
+
+GET {{apiRestCenso_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
